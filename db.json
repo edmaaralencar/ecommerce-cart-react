@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "title": "Camisa Branca",
+            "price": 30,
+            "id": 1,
+            "img_name": "camisa-branca.jfif",
+            "sizes": ["P", "M", "G"],
+            "description": "Camisa branca linda!",
+            "category": "Camisa"
+        },
+        {
+            "title": "Regata",
+            "price": 40,
+            "id": 2,
+            "img_name": "regata.jfif",
+            "sizes": ["P", "M", "G"],
+            "description": "Regata branca bonita!",
+            "category": "Camisa"
+        },
+        {
+            "title": "Camisa Azul",
+            "price": 50,
+            "id": 3,
+            "img_name": "camisa-azul.jpg",
+            "sizes": ["P", "M", "G"],
+            "description": "Camisa linda!",
+            "category": "Camisa"
+        },
+        {
+            "title": "Sapato Preto",
+            "price": 100,
+            "id": 4,
+            "img_name": "sapato-preto.png",
+            "sizes": ["39", "40", "41"],
+            "description": "Tenis preto bonito!",
+            "category": "Sapato"
+        },
+        {
+            "title": "Moletom",
+            "price": 200,
+            "id": 5,
+            "img_name": "moletom-preto.jfif",
+            "sizes": ["P", "M", "G"],
+            "description": "Moletom preto bonito!",
+            "category": "Casaco"
+        },
+        {
+            "title": "Sapato Branco",
+            "price": 200,
+            "id": 6,
+            "img_name": "sapato-branco.jfif",
+            "sizes": ["P", "M", "G"],
+            "description": "Sapato branco bonito!",
+            "category": "Sapato"
+        }
+    ]
+}
